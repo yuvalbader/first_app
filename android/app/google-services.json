@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993494180591",
+    "project_id": "firstapp-49f8c",
+    "storage_bucket": "firstapp-49f8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993494180591:android:1ab2ef817fbb49143ef11a",
+        "android_client_info": {
+          "package_name": "com.yuval.first_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993494180591-kps077ovn6qdn58en3poccd8spel967c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFE4ilgoO7mh6Sg9hu7vdZoJEnm07LzMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993494180591-kps077ovn6qdn58en3poccd8spel967c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
